@@ -11,3 +11,8 @@ In this project, I propose to study the rebound rate of housing price in neighbo
 https://www.zillow.com/research/data/
 ### 2. US census (2010-2019)
 https://www.safegraph.com/free-data/open-census-data/
+
+## Example: Hurricane Katrina (New Orleans, August 29, 2005)
+Lakeview, Predominately white, middle-class community, 70124 
+
+Lower Ninth Ward, predominately Africa-American,70117
